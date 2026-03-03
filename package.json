@@ -1,0 +1,29 @@
+{
+  "name": "uniflow",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img src=\"assets/UniFlow.logo.png\" alt=\"UniFlow Logo\" width=\"200\"/>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalieabwoga/UniFlow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalieabwoga/UniFlow/issues"
+  },
+  "homepage": "https://github.com/natalieabwoga/UniFlow#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "pg": "^8.19.0",
+    "postgres": "^3.4.8"
+  }
+}
